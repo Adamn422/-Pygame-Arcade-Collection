@@ -1,1 +1,1 @@
-# -Pygame-Arcade-Collection
+# Pygame-Arcade-Collection
