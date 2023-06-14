@@ -5,6 +5,9 @@ This repository has a collection of classic arcade games implemented using Pygam
 Games Included:
 
 Pong
+
 Tic-Tac-Toe
+
 Snake
+
 Brick Breaker
